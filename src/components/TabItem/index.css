@@ -1,0 +1,13 @@
+.list {
+  margin: 10px;
+}
+.btn {
+  background-color: transparent;
+  border: none;
+  cursor: pointer;
+  color: #2563eb;
+}
+.addStyle {
+  border: solid;
+  border-width: 0px 0px 2px 0px;
+}

@@ -1,0 +1,12 @@
+.gamesImg {
+  height: 5rem;
+}
+.gamesDiv {
+  margin: 10px;
+  background-color: #ffff;
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  border-radius: 10px;
+  width: 150px;
+}
